@@ -1,0 +1,57 @@
+export  const BlogContent = [
+    {
+        id: "1",
+        blogheading: "Why your business needs a Digital Marketing Strategy",
+        blogdes: "Your customers are very well informed so don’t underestimate their tech-savviness! Do you really think that a customer would see your pamphlet floating in the air and walk straight to your store just because you tossed a pamphlet.",
+        blogimg: "assets/images/blog/blog-list/img-1.jpg",
+        bloglink: "/blogdetails/1",
+        firstpara: "Your customers are very well informed so don’t underestimate their tech-savviness! Do you really think that a customer would see your pamphlet floating in the air and walk straight to your store just because you tossed a pamphlet. Your pamphlet would go straight to the bin if you don’t have an online presence and here’s why! People are increasingly acquiring the attributes of one of those spying agents that Angelina Jolie portrays in her movies. They Google the guts out of you before spending a dime. And if you fail to meet their expectations then good luck selling your product! So, one by one let’s discuss why your business needs a Digital Marketing strategy",
+        firsthding: "Added credibility to your name",
+        secpara: "The point I was paying emphasis at earlier, was that people doubt your credibility if they can’t research on your whereabouts i.e. your address, your brand exhibition, your marketing etc. And no we are not talking about a niche market here. There are 2.1 billion smartphone users in the world and they definitely benefit from the power of the internet.",
+        sechding: "You Can Optimize Your Way to get maximum leads",
+        thirdpara: "Digital Marketing is always backed up by information that enables you to continually upgrade your digital promotion. You get the capacity to see precisely how your clients are utilizing your website, how they are navigating through it, what pages they are going to the most and what the obstacles to generation of lead are. Advanced investigation makes this possible and enables you to modify your methodology and guide your clients to the best pages of your site. So the point is you can alter your behavior and hence the reciprocated behavior of your clients to the benefit of your business.",
+        thirdhding: "Relevant and targeted Marketing",
+        fourthpara: "Social Platforms like Facebook and Google have made calculations to give their clients the most ideal experience and by just displaying the content that matters to them. They have made a definitive stage for brands to target their resources towards the ideal client! This means that you welcome your clients to find the items that they are already looking for interestingly as opposed to an intrusive and disrupting strategy which infuriates the customer.",
+        fouthhding: "Show me numbers! Show me results!",
+        fivthpara: "Every strategy you set up on the web, regardless of whether it is social media, AdWords or any other platform, the best part is that you get an analysis after a specified time period. For instance Facebook gives daily notifications on how each post has been performing out there. Facebook also sends weekly insights regarding the marketing strategy being exercised by the page. This enables the business to improve their marketing strategy to get maximum customer responsiveness.",
+        fivthhding: "Capture more leads",
+        sixthpara: "At last, a Digital Marketing procedure will catch more leads since it is set up for progress by concentrating on a particular target audience.When you are at a platform which your target customers prefer to use and the same platform provides you your target market in one place then you are being highly relevant. This ensures that you are of some concern to the market.",
+        sixthhding: "Achieve the customers that will become your advocates",
+        sevethpara: "There are more than 1 billion individuals on Facebook – that is a great opportunity to develop your business! Through a key way to deal with web-based marketing, you can without much of a stretch and cost-effectively achieve the majority who will ultimately develop your image."
+    },
+    {
+        id: "2",
+        blogheading: "How Digital Marketing Will Change In 2018",
+        blogdes: "We see content marketing as the ‘engagement’ fuel that powers all digital communications from search to social to email marketing to creating website experiences which convert. Content marketing is creation and distribution of,",
+        blogimg: "assets/images/blog/blog-list/img-2.jpg",
+        bloglink: "/blogdetails/2",
+        
+        firsthding: "Content Marketing",
+        secpara: "We see content marketing as the ‘engagement’ fuel that powers all digital communications from search to social to email marketing to creating website experiences which convert. Content marketing is creation and distribution of relevant content to the target market for promotion of a product or service.",
+        sechding: "Big Data",
+        thirdpara: "Today Big Data is more valuable than any other resource in the world. It is like an unprocessed platinum ore. This is because marketers are aware of the potential of using data as what we call ‘actionable insight’. Large organizations all over the world spend billions and billions of dollars to purchase and process unfathomable amounts of data to extract trends, patterns and insights. So the future marketing appears more reliant on big data for marketing in 2018.",
+        thirdhding: "Artificial Intelligence and Machine Learning",
+        fourthpara: "Artificial Intelligence is gaining more impetus as robots continue to replace human in jobs and significantly reduce costs for businesses and organizations. You must have heard of Sophia, the intelligent, vocal, funny, human faced robot that just got the citizenship of Kingdom of Saudi Arabia. If you had a chance to see the robot speak in Youtube videos you would have been surprised to see how relevant, witty and spontaneous her answers were to the questions that were posed towards her! Same applies to the mobile embedded robots called Siri and Bixby. Siri is a talking digital assistant in Apple phones and Bixby is for Samsung phones. These robots may have a dominant role in mobile marketing whereby their Artificial Intelligence will help n personalized marketing for the user.",
+        fouthhding: "Affiliate Marketing",
+        fivthpara: "Affiliate Marketing is not something new to marketing but it is something that doesn’t seem to die anytime soon even in the rapidly evolving digital marketing. Affiliate Marketing is when one website refers to the products of another website. It involves hyper links that land the visitor of one page to the website of the referred product. Affiliate marketing or influencer marketing adds authenticity and credibility to the recommended site.",
+        fivthhding: "Proximity Marketing",
+        sixthpara: "Proximity Marketing is a future development of mobile marketing to personalize the customer’s experience. It involves sending relevant notifications to the customer based on their location. Proximity Marketing is increasingly being adapted by huge retailers like Carrefour, Target, Macy’s, Walmart, Eat, Woolworths, Hammersons, McDonald’s, CocaCola, Oscar Mayer and GasBuddy. They are successfully deploying beacons (Bluetooth devices that send signals picked up by a compatible operating system) in their stores for their proximity marketing campaigns."
+    },
+    {
+        id: "3",
+        blogheading: "The Most Effective Marketing Strategies",
+        blogdes: "Three considerable terms in the above sentence “long-term success”, “effective”, and “flexible” are mentioned worthy. Let’s start with the effectiveness and flexibility of an agency, and move toward the long-term success that is only possible with a blend of earlier two!",
+        blogimg: "assets/images/blog/blog-list/img-3.png",
+        bloglink: "/blogdetails/3",
+        firstpara: "The long-term success of a digital marketing agency lies behind its effective and flexible strategies.Three considerable terms in the above sentence “long-term success”, “effective”, and “flexible” are mentioned worthy. Let’s start with the effectiveness and flexibility of an agency, and move toward the long-term success that is only possible with a blend of earlier two!",
+        firsthding: "Word of Mouth Marketing Strategy",
+        secpara: "Word of Mouth can be defined as any medium where people share their views and information regarding a particular product or project. The sharing can be verbally or nonverbally. If you are running a digital marketing agency and want to drive the maximum audience to your website, product, or project; the word of mouth marketing can prove to be a great tactic.",
+        sechding: "Email Marketing",
+        thirdpara: "Email marketing is a great internet marketing tactic to follow. It is a part of your business plan and helpful in advertising the products and services for making a notable revenue and meeting the company’s defined goals. You can segment your messages on distinct levels and can make them appear ahead of a lot of people.",
+        thirdhding: "Network Marketing",
+        fourthpara: "Network marketing or multi-level marketing is a marketing strategy that generates revenue over the agency’s non-waged employees and earnings on the basis of the commission system.",
+        fouthhding: "Social Media Marketing",
+        fivthpara: "Utilizing different social channels like Facebook, Instagram, Twitter, Pinterest, and LinkedIn for the advertisement of your products and services comes under social media marketing (SMM). SMM depends on the use of a particular social channel and the timing you opt to post for gaining maximum engagement and clicks. Our article The Best Times and Tactics to Post on Social Media is good to give a read for acknowledging posting types and times for any of your brands."
+    },
+
+]
